@@ -45,15 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Arístides José Molina Pérez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@JessicaZambranoCG](https://github.com/JessicaZambranoCG)
 
 ## 🤝 Contributing
 
