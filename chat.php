@@ -37,7 +37,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body class="d-flex  justify-content-center align-items-center vh-100">
-    <div class="w-400 shadow p-4 rounded">
+    <div  style="background-image: url('img/degradado.jpg'); width: 100; height: 100;" class="w-400 shadow p-4 rounded">
     	<a href="home.php" class="fs-4 link-dark">&#8592;</a>
     	    <div class="d-flex align-items-center">
     	   	   <img src="uploads/<?=$chatWith['p_p']?>" class="w-15 rounded-circle">
@@ -58,10 +58,7 @@
                   </div>
               </h3>
     	  </div>
-    	  <div class="shadow p-4 rounded
-    	              d-flex flex-column
-    	              mt-2 chat-box"
-    	        id="chatBox">
+    	  <div class="shadow p-4 rounded d-flex flex-column mt-2 chat-box" id="chatBox">
     	        <?php 
                     if (!empty($chats)) {
                     foreach($chats as $chat){
