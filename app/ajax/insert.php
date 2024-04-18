@@ -41,12 +41,11 @@ if (isset($_SESSION['username'])) {
 			$stmt3->execute([$from_id, $to_id]);
 		}
 		?>
-		<p class="rtext align-self-end
-		          border rounded p-2 mb-1">
-		    <?=$message?>  
-		    <small class="d-block"><?=$time?></small>      	
-		</p>
-    <?php 
+<p class="rtext align-self-end border rounded p-2 mb-1">
+  <?=$message?>
+  <small class="d-block"><?=$time?></small>
+</p>
+<?php 
     }
   }
 }else {
