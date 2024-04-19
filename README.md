@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://jessicazambranocg.github.io/LoginChat/)
+[Live Demo Link](https://chat-online-jessica.000webhostapp.com/)
 
 
 ## Getting Started
